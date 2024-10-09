@@ -16,8 +16,10 @@ Tento kurz je ideální pro .NET vývojáře a architekty, kteří chtějí proh
 
 
 ## Organizační  
-**Termín:** 5.-6.12. 2024  
-**Místo:** Brno  
+**Termíny:** 
+* Brno - 5.-6.12.
+* Praha - 12.-13.12.
+  
 **Kapacita:** 6 lidí  
 **Cena:** 9999 kč + DPH
 
