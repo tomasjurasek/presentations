@@ -23,4 +23,5 @@ Tento kurz je ideální pro .NET vývojáře a architekty, kteří chtějí proh
 **Kapacita:** 6 lidí  
 **Cena:** 9999 kč + DPH
 
+Pro přihlášení na kurz napište na jurasek.tomas@gmail.com
 
