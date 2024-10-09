@@ -7,8 +7,8 @@ Na kurzu se naučíme:
 * Analyzovat a modelovat doménu podle principů DDD
 * Návrh doménové architektury
 * Implementovat doménové modely v .NET ekosystému
+* Implementace návrhových vzorů - Saga, Process Manager,...
 * Komunikace mezi aggregáty a jednotlivýmy doméy
-* Využití návrhových vzorů - Saga, Process Manager,...
 * Integrace s dalšími architektonickými styly - CQRS, Event Sourcing
 
 
