@@ -1,5 +1,5 @@
-# Domain-Driven Design
-V rámci tohoto kurzu se důkladně seznámíme s přístupem Domain-Driven Design (DDD), který je klíčový pro efektivní návrh a implementaci komplexních softwarových systémů. Prozkoumáme základní principy DDD, jako jsou modelování domény, agregáty, entitní objekty, hodnotové objekty a doménové události. Naučíme se, jak tyto koncepty aplikovat v praxi a jak je správně implementovat v .NET ekosystému.
+# Domain-Driven Design (.NET)
+V rámci tohoto praktického kurzu se důkladně seznámíme s přístupem Domain-Driven Design (DDD), který je klíčový pro efektivní návrh a implementaci komplexních softwarových systémů. Prozkoumáme základní principy DDD, jako jsou modelování domény, agregáty, entitní objekty, hodnotové objekty a doménové události. Naučíme se, jak tyto koncepty aplikovat v praxi a jak je správně implementovat v .NET ekosystému.
 
 
 
